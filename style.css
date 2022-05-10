@@ -1,0 +1,18 @@
+body{
+    background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(99,221,87,1) 100%);
+}
+#scoreCounter{
+    font-size: 30px;
+    margin-left: 20px;
+    float: left;
+}
+#timeCounter{
+    font-size: 30px;
+    margin-right: 20px;
+    float: right;
+}
+#sketchAssigner{
+    color: azure;
+    font-size: 20px;
+}
